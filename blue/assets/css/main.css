@@ -405,7 +405,7 @@ input, select, textarea {
 	}
 
 	header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
-		background-color: #e49969;
+		background-color: #703b19;
 		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(124, 25, 0, 0.671), #ac703d 50%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
