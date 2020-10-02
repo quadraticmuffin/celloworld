@@ -2435,6 +2435,12 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.main .center-wrapper {
+			margin-left: auto;
+			margin-right: auto;
+			width: 40%;
+		}
+
 			.image.main img {
 				width: 100%;
 			}
