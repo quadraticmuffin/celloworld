@@ -323,6 +323,13 @@ input, select, textarea {
 		margin: 0 0 6rem 0;
 	}
 
+	header.major a {
+		color: #ac703d;
+	}
+	header.major a:hover {
+		color: #e49969;
+	}
+
 	header.major.alt {
 		margin-bottom: -3rem;
 	}
