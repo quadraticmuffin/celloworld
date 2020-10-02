@@ -398,8 +398,8 @@ input, select, textarea {
 	}
 
 	header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
-		background-color: #4797ec;
-		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #884beb 90%);
+		background-color: #e49969;
+		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #ac703d 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 	}
@@ -3445,8 +3445,8 @@ input, select, textarea {
 			#banner input[type="button"].primary,
 			#banner button.primary,
 			#banner .button.primary {
-				background-color: #4797ec;
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(71, 151, 236, 0), #884beb 80%);
+				background-color: #e49969;
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(71, 151, 236, 0), #ac703d 80%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -3458,7 +3458,7 @@ input, select, textarea {
 				#banner input[type="button"].primary:hover,
 				#banner button.primary:hover,
 				#banner .button.primary:hover {
-					background-color: #6cacf0;
+					background-color: #e5ae86;
 				}
 
 					#banner input[type="submit"].primary:hover:active,
@@ -3466,7 +3466,7 @@ input, select, textarea {
 					#banner input[type="button"].primary:hover:active,
 					#banner button.primary:hover:active,
 					#banner .button.primary:hover:active {
-						background-color: #2882e2;
+						background-color: #eec5a9;
 					}
 
 		#banner input, #banner select, #banner textarea {
@@ -3689,8 +3689,8 @@ input, select, textarea {
 	#header {
 		background-color: #3a3a3a;
 		color: #ffffff;
-		background-color: #4797ec;
-		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #884beb 90%);
+		background-color: #e49969;
+		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #ac703d 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-align-items: center;
@@ -3785,8 +3785,8 @@ input, select, textarea {
 		}
 
 			#header.alt:before {
-				background-color: #4797ec;
-				background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #884beb 90%);
+				background-color: #e49969;
+				background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #ac703d 90%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				content: '';
