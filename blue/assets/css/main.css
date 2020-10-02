@@ -406,7 +406,7 @@ input, select, textarea {
 
 	header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
 		background-color: #e49969;
-		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #ac703d 90%);
+		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(124, 25, 0, 0.671), #ac703d 50%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 	}
@@ -2426,6 +2426,8 @@ input, select, textarea {
 		}
 
 			.image.fit img {
+				/* height: auto; */
+				object-fit: cover;
 				width: 100%;
 			}
 
@@ -3806,7 +3808,7 @@ input, select, textarea {
 
 			#header.alt:before {
 				background-color: #e49969;
-				background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(71, 151, 236, 0), #ac703d 90%);
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(71, 151, 236, 0), #ac703d 90%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				content: '';
@@ -4051,12 +4053,12 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background-color: #3a3a3a;
+		/* background-color: #750000; */
 		color: #ffffff;
 		padding-top: 14.75rem;
 		padding: 8rem 0 6rem 0 ;
 		background-attachment: fixed, fixed;
-		background-image: linear-gradient(90deg, rgba(58, 58, 58, 0.6), rgba(58, 58, 58, 0.6)), url("../../images/caroling2.jpg");
+		background-image:  linear-gradient(0deg, rgba(114, 0, 0, 0.678), #9948015d 90%);
 		background-position: center, center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -4182,8 +4184,8 @@ input, select, textarea {
 	}
 
 	#navPanel {
-		background-color: #4797ec;
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(71, 151, 236, 0), #884beb 80%);
+		background-color: #8a3700;
+		background-image: url("../../images/overlay.png"),  linear-gradient(45deg, rgba(116, 0, 0, 0.596), #ac703d 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-transform: translateX(20rem);
