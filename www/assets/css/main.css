@@ -323,6 +323,12 @@ input, select, textarea {
 		margin: 0 0 6rem 0;
 		width: 70%;
 	}
+	header.major p.narrow {
+		width: 50%;
+	}
+	header.major p.small-skip {
+		margin-bottom: 1rem;
+	}
 
 	header.major.alt {
 		margin-bottom: -3rem;
