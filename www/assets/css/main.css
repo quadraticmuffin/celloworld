@@ -4337,3 +4337,23 @@ input, select, textarea {
 		box-shadow: 0 0 6rem 0 rgba(0, 0, 0, 0.125);
 		visibility: visible;
 	}
+
+.auto-resizable-iframe {
+  width: 50%;
+  max-width: 525px;
+  margin: 0px auto;
+}
+
+.auto-resizable-iframe > div {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0px;
+}
+
+.auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
