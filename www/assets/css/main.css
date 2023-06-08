@@ -3435,7 +3435,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		background-attachment: fixed, fixed;
-		background-image: linear-gradient(90deg, rgba(58, 58, 58, 0.4), rgba(58, 58, 58, 0.4)), url("../../images/caroling1.jpg");
+		background-image: linear-gradient(90deg, rgba(58, 58, 58, 0.4), rgba(58, 58, 58, 0.4)), url("../../images/showcase-s23/all-playing-cropped.png");
 		background-position: center, center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
